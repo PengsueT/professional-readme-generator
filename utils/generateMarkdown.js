@@ -75,7 +75,7 @@ ${data.tests}
 
 ## Questions
 
-You can find more of my work at [Github](https://github.com/${data.github}/).
+You can find more of my work at my [Github](https://github.com/${data.github}/).
 
 If you have any questions about the repository or any concerns contact me directly at [Email](mailto:${data.email}).
 `;
