@@ -4,7 +4,7 @@
 
 ## Description
 
-It helps the user create a great readMe file for their projects.
+It helps the user create a great ReadMe file for their projects.
 
 ## Table of Contents
 
@@ -41,6 +41,10 @@ You can find more of my work at [Github](https://github.com/PengsueT/).
 ## References
 
 [Github Repo](https://github.com/PengsueT/professional-readme-generator)
+
+[Github Pages](https://pengsuet.github.io/professional-readme-generator/)
+
+[Video Demo](./assets/CreateReadMeGenVideo.mp4)
 
 ## Screenshot
 
